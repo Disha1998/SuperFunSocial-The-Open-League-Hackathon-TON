@@ -90,25 +90,25 @@ receive(msg: Mint){
 
 * FunPass : https://testnet.tonscan.org/address/EQALJcLY4W_2arhetVVz6IQr9EGjDlKbeLYk79PXdI5VGXtO
 
+
+
+
+
 * GameAsset :https://testnet.explorer.tonnft.tools/collection/kQCGIRlss8n7ovMDedH_RyMzp8gQ7DcUxHvhaDQ_A2zmjbVT
 
 
 # It includes
 
-![1](https://github.com/Disha1998/SFS/assets/69969675/bf35d1a4-97b7-4c06-9700-47d483281a21)
+
+![1](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/af43b76e-ae81-45a3-bf2b-28364015dff4)
+
+![2](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/466060a1-efc4-421a-b90b-77d9d8be8d3b)
+
+![3](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/3134d8bc-5654-4cf5-8575-59b5fa2bd2ef)
+
+![tournament](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/8372bbc5-6121-4078-84a0-e1ee2d747ffc)
 
 
-![2](https://github.com/Disha1998/SFS/assets/69969675/bd53baa3-095d-4329-a75e-a7b7ddaef8f0)
-
-
-![3](https://github.com/Disha1998/SFS/assets/69969675/3274df32-1693-40f9-b238-3edd1fd2554f)
-
-![tournament](https://github.com/Disha1998/SFS/assets/69969675/ad09debb-e279-46da-aa0b-a5ab00634ab3)
-
-
-![4](https://github.com/Disha1998/SFS/assets/69969675/51053f73-c866-42d9-94fc-fdf1222ae5ea)
-
-
-
+![4](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/444e54b3-0938-4ae8-a176-7446cb409da1)
 
 
