@@ -5,7 +5,7 @@
 
 ## What problem we are solving?
 
-**We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humor, creativity, and time investment.**
+**We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humorous content and contribution towards the growth of the platform.**
 
 ## Solution
 **SuperFunSocial is a social gaming app on Farcaster & Ton where users can earn crypto rewards for creating humorous content such as funny memes and playing games.**
