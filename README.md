@@ -45,11 +45,11 @@
 ## Smart Contracts
 We have created smart contracts for various functionalities including an NFT collection contract, an NFT item contract for FunPass, and a different NFT contract for GameAsset.
 
-NFT Collection : https://github.com/Disha1998/SFS/blob/main/contracts/nftCollection.tact
+NFT Collection : https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/blob/main/nftCollection.tact
 
-FunPass : https://github.com/Disha1998/SFS/blob/main/contracts/nft_item.tact
+FunPass : https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/blob/main/nft_item.tact
 
-GameAsset : https://github.com/Disha1998/SFS/blob/main/contracts/nftItem_gameAsset.tact
+GameAsset : https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/blob/main/nft_item.tact
 
 
   ```
