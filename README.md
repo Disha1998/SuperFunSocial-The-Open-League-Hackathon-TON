@@ -1,8 +1,5 @@
  # SuperFunSocial
 
-<img width="947" alt="Screenshot 2024-06-14 at 11 41 26 AM" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/e3fbae1a-6215-4d2e-a7d7-96bd38172897">
-
-
 ## What problem we are solving?
 
 **We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humorous content and contribution towards the growth of the platform.**
