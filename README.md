@@ -1,4 +1,5 @@
- # SuperFunSocial
+ # [SuperFunSocial](https://x.com/SuperFunSocial "Visit SFS's Profile")
+
 
 ## What problem we are solving?
 
@@ -110,9 +111,21 @@ receive(msg: Mint){
 
 
 
-#Let's Connect!
+# Let's Connect!
 
-[Disha Sathavara](URL "https://x.com/dishasathavara")
+[SuperFunSocial](https://x.com/SuperFunSocial "Visit SFS's Profile")
+
+[Karan Pujara](https://x.com/dishasathavara "Visit Disha's Profile")
+
+[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
+
+[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
+
+[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
+
+[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
+
+
 
 
 
