@@ -112,7 +112,7 @@ receive(msg: Mint){
 
 #Let's Connect!
 
-[Disha Sathavara](URL "https://twitter.com/dishasathavara")
+[Disha Sathavara](URL "https://x.com/dishasathavara")
 
 
 
