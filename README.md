@@ -115,18 +115,15 @@ receive(msg: Mint){
 
 [SuperFunSocial](https://x.com/SuperFunSocial "Visit SFS's Profile")
 
-[Karan Pujara](https://x.com/dishasathavara "Visit Disha's Profile")
+[Karan Pujara](https://x.com/karan_pujara "Visit Karan's Profile")
+
+[Dhruv Sathavara](https://x.com/Dhruv_Slat "Visit Dhruv's Profile")
+
+[Nirav Joshi](https://x.com/NiravJ3 "Visit Nirav's Profile")
 
 [Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
 
-[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
-
-[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
-
-[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
-
-
-
+[Mahima Thacker](https://x.com/mahima_thacker "Visit Mahima's Profile")
 
 
 
