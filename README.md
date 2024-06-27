@@ -1,5 +1,7 @@
  # [SuperFunSocial](https://x.com/SuperFunSocial "Visit SFS's Profile")
 
+![sfs](https://github.com/Disha1998/SuperFunSocial-The-Open-League-Hackathon-TON/assets/69969675/b43c74ea-510c-4ead-90d6-a4f8a8c8108f)
+
 
 ## What problem we are solving?
 
